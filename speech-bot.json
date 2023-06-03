@@ -1,9 +1,9 @@
 {
   "type": "service_account",
-  "project_id": "caramel-theory-388409",
-  "private_key_id": "50ddf0799666b3739b91d308d8b1d3291c04ee6e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdKzIfpby4w4q8\nkPdlev8ev1KTZtS6mCYp/RL3hrDSPcl5DcTDbDzU1gRKSgCGE/OV7+GN9iiqUTB3\ngBIgIZl9HhUnmU8aZBu25zy1ddSWwfe7udbjzUIp3CbZVUui9/ZXvVCL+tE5upoN\nPOuL41Spj71byGmFPBRWzZW7PsMsYeEXkK6f9nLGQ/yI+sRx6douchTUiFzBbCls\nM/haGHOWXPe0Hvh6yA2Iwkxpj9dkk0PxcQ4bQFQ+lgldhz1jP3tKe4HwGCmnYp3M\nn4yZnQsgPIyw3p6Pc1R+qCoGnq1wM/XWw+9J15AvZCyiqvjuro5CKvyUKoJFpKCg\npQQIT5PdAgMBAAECggEAIV8A2UnkWJnCXTfto6k6PrHSa3RP0l/IaK1wx8hcRoOy\ngebLws+6WdmoVwq/8jgNxiYFLxKXf1RWVWVG0/Y2ZCPNS5dofZrIbK1MDV57uVft\njTlQGJXmSMOTJx3OfcenEWmjztj+cEK//3QSMmVePlOEGhcjWpQPYH/t3TBeGg/I\nGAb/cZqvNLcwog0RMP5qExpHXii7lEOa7vaowZ2/fBXQq1g/VYdRneCNabHkQvB0\njWSKwGQ8HUnBOKHN8eoiwab3E7itvBMvv7zSqpUAu42RE7ZRob1p4H20kJOsbyRH\nvXLz2zIohAybgUmidngM3RixPs/q2p1Nyrn/EvdnCQKBgQDOLVsD2x13ia6Os/Kw\n/efuoRg6WxFQXbqE69TZXxexBQJkrdChwUO0DkXReY1TITFzrxqE9plwVphite7t\nKvVyXqjUuRv4DK7uUKiviR1o7XmU8qfoJ4yhCGVDpwFfjxNUK7cRoHP/XCZlU8wZ\nKqJj1hnhuTBRVE8zealumV339QKBgQDDJg28mmAkxkYj8MCUmXwpsnqfruI64i3+\neJs2Bua1OUk6+lS/MlZGpTu9etZ6vJP8sziF15UKVlkfAYBEVy0pfhW60hKK3L6I\np2vnJwNzvEUJjjMCJUQftSHAfkmHPrIYRkgC75/Ghb3I0Y5qGJ5hLaiFOP4bUPyG\nMdrO8qwDSQKBgB2c7BaosRnLP7QlanU7csWWg8lV7S2y2KhgywiRnPCC/K4DPRUO\nki/ZYPPOVpsbCGRKQS/Zz34QIgEDipar9ecAa5VqJPdCsxltolzb/8pjWXQoSi+R\nBqTWdNz7rrnP7gHH6ZpxhlemH6msGIOA2SQnyz3dgHAeAOYu0kQdaR7FAoGAFaUR\n3vpscYfAXdolMhY4DFPsf+ug0hEmMtRjusFXM4CQG8eKQM6vfRR0pNaMFX73Fw81\n1LqNoGDlb6f19x6INtLyTA9i2R4U0Alp0XClVF/sdFveUn2Zqb6oaLZZJ3QPwtuA\nvzqeySEqZKzBlAj5ACRVTbl9jcAU0jmTYGLQK2kCgYAf3DdhjrFbb8rKqbPO6Pd0\n/9OIjoL19FkWQGF30hK65iSAIq5jgvX/SLRWWUVeLWt/RONo9iOhe1LBZL7NJ8Hp\n+mot6Od3if3GCgV+wp0XZMDbMKygbqslBpPX8NITXrp+5ecJcNMz9SZ+7MR7GTuq\nkF3WMJhSIA9V2d0faPRpKg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "asktgbot@caramel-theory-388409.iam.gserviceaccount.com",
+  "project_id": "ENTER OWN",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY -----END PRIVATE KEY-----\n",
+  "client_email": "ENTER OWN",
   "client_id": "104764506168368480379",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
